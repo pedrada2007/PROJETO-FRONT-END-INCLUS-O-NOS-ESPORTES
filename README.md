@@ -172,4 +172,4 @@ O site está pronto quando:
 
 
 
-<a href="https://github.com/pedrada2007/PROJETO-FRONT-END-INCLUS-O-NOS-ESPORTES">projeto-front-end-inclus-o-nos-esportess-production.up.railway.app</a>
+<a href="https://projeto-front-end-inclus-o-nos-esportess-production.up.railway.app/">projeto-front-end-inclus-o-nos-esportess-production.up.railway.app</a>
